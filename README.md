@@ -22,7 +22,3 @@ SET FOREIGN_KEY_CHECKS = 1;
 ```
 详见JdbcBuilderTest.java
 ```
-# 联系方式
-```
-Wechat/QQ：543210188
-```
